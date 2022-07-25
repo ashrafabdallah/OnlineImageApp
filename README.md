@@ -1,5 +1,5 @@
 # OnlineImageApp
-# android-mvvm-jetpack-compose-kotlin-flows
+# android-mvvm-jetpack-compose-kotlin-flows-Paging 3
 Android -MVVM-Jetpack Compose-Kotlin Flows-Dagger Hilt-Retrofilt2-Coil  - Paging 3
 
 A sample project that presents a modern approach to Android app development using MVVM architecture which is sclable and maintainable.
